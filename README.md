@@ -25,5 +25,5 @@ This repository contains files related to the analysis of Apple and Samsung prod
 - [Image](imgg.png)
    - Uploaded: 14 minutes ago
    
-- [Image](img2.png)
+- [Image](download%20(3).png)
    - Uploaded: 14 minutes ago
